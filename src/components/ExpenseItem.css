@@ -1,0 +1,9 @@
+.expense-item{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.expense-item__descriptioin{
+    font-size: 56px;
+}
+.expence-item__price{
+    color: aquamarine;
+}
