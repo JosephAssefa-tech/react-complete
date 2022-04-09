@@ -49,7 +49,7 @@ const submitHandler=(event)=>{
         amount:enteredAmount,
         date:new Date(enteredDate)
     };
-    console.log(expenseData);
+
     setEnterdAmount('');
     setEnterdDate('');
     setEnteredTitle('');
